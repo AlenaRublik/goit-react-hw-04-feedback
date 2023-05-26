@@ -1,4 +1,4 @@
-import { Component, useEffect, useState } from 'react';
+import { useState } from 'react';
 import Controls from 'components/Controls/Controls';
 import Statistics from 'components/Statistics/Statistic';
 import Section from 'components/Section/Section';
